@@ -13,7 +13,8 @@ body,
 }
 
 body {
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-family: 'Passero One', cursive;
+  
 }
 
 nav {
@@ -23,6 +24,7 @@ nav {
   padding: 10px;
   line-height: 3;
   font-size: 1.2rem;
+  font-family: 'Passero One', cursive;
 }
 
 a,
