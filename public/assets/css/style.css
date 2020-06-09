@@ -28,6 +28,15 @@ nav {
   font-family: 'Passero One', cursive;
 }
 
+.footer {
+  margin: 7px;
+  padding: 7px;
+  border: #96c7d5 1px solid;
+  text-align: center; 
+  background-color: #094f6e; 
+  color:#e4f5ff; 
+  font-family: 'Passero One', cursive;
+}
 a,
 a:hover,
 a:active,
